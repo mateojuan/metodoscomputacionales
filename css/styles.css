@@ -4,4 +4,10 @@ body {
   color: white;
   text-align: center;
 }
-
+a{
+  color: white;
+}
+img{
+  width: 100%;
+  max-width: 600px;
+}
