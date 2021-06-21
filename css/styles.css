@@ -7,7 +7,5 @@ a {
   color: white;
 }
 img{
-    width:100%;
-    max-width:300px;
-    max-height:900px;
+  max-width: 50%;
 }
