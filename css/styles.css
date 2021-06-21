@@ -1,15 +1,16 @@
-body {
+p {
   font-size: 16px;
   background: black;
   color: white;
 }
-p{
-  text-align: center;
-}
-a{
+a {
   color: white;
 }
-img{
+img {
   width: 100%;
   max-width: 400px;
+}
+
+h1{
+  text-align: center;
 }
